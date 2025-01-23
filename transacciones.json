@@ -1,0 +1,38 @@
+[
+    {
+        "transaccion_id": 1,
+        "cliente_id": 101,
+        "amount": -100,
+        "category": "Food",
+        "date": "2025-01-16",
+        "type": "gasto",
+        "status": "activa"
+    },
+    {
+        "transaccion_id": 2,
+        "cliente_id": 101,
+        "amount": 200,
+        "category": "Electronics",
+        "date": "2025-01-16",
+        "type": "ingreso",
+        "status": "activa"
+    },
+    {
+        "transaccion_id": 3,
+        "cliente_id": 103,
+        "amount": -50,
+        "category": "Transport",
+        "date": "2025-01-16",
+        "type": "gasto",
+        "status": "inactiva"
+    },
+    {
+        "transaccion_id": 4,
+        "cliente_id": 104,
+        "amount": 75,
+        "category": "Entertainment",
+        "date": "2025-01-16",
+        "type": "ingreso",
+        "status": "activa"
+    }
+]
